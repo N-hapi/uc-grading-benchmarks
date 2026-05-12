@@ -1,0 +1,36 @@
+# Dataset — large image files, do not commit
+Datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# fastai / PyTorch model checkpoints
+models/
+*.pth
+*.pkl
+
+# Training artefacts (plots saved by the script)
+*.png
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
