@@ -34,3 +34,6 @@ models/
 # IDE
 .vscode/
 .idea/
+
+# Claude Code project notes (local only)
+CLAUDE.md

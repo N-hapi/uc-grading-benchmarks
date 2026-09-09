@@ -1,0 +1,2 @@
+model,CPU (ms/image),GPU (ms/image)
+ResNet34,34.12 ± 2.05,9.84 ± 0.26

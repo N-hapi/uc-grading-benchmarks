@@ -1,0 +1,2 @@
+model,Val Accuracy,Val F1 (macro),Val QWK
+ResNet34,0.3125,0.3067,-0.0167
